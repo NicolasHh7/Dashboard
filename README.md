@@ -1,2 +1,4 @@
 # Dashboard
-Creating a DashBoard likes
+Sumary
+Languages
+GITHUB | GIT | CSS | SCSS | HTML | JS
